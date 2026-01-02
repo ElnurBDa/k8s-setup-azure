@@ -1,5 +1,3 @@
-Below are the **official** Kubernetes v1.35 docs you’ll be following, plus a **copy/paste build plan** for your 3-node Debian lab (VM1 control-plane, VM2/VM3 workers).
-
 ## 1) Official Kubernetes v1.35 installation guides (kubeadm)
 
 * **Installing kubeadm / kubelet / kubectl (v1.35)** ([Kubernetes][1])
